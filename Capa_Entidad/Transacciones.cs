@@ -32,3 +32,5 @@ namespace Capa_Entidad
 
     }
 }
+
+--holanicol--
